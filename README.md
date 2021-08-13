@@ -36,4 +36,4 @@ A regular expression or regex also referred to as rational expression is a seque
 \.
 ## Author
 
-my name is michael leeser-smith and this is my tutorial for regex. 
+my name is michael leeser-smith and this is my tutorial for regex. https://github.com/mleesers
